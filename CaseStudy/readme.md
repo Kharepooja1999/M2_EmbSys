@@ -26,5 +26,15 @@ ii)Dust level indicator.
 
 iii)Humidity sensor.
 
+# Applications:
+
+ i)To collect dustbins placed at public places in city. 
+ 
+ ii) Automatic open-close lid for ease of use .
+
+iii) There is no contact touch between dustbin and Person so, prevention from germs and diseases. 
+
+iv) Warning message indication when a Smart Trash Bin is nearly full. Also send SMS to garbage collector in particular area.
+
 
 
