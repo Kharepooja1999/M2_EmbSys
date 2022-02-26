@@ -25,6 +25,42 @@ The main objective of this is to provide an application for blind people to dete
  • Dig information with indication alarm.
  
  • Simple to use & low cost
+ 
+ # Components:
+i)Arduino UNO.
+
+ii)Jumper wires.
+
+iii)Breadboard.
+
+iv)HC-SR04 ultrasonic sensor.
+
+v)Buzzer.
+
+vi)LED with a 220-ohm resistor.
+
+vii)DC batteries.
+
+# Description:
+
+# Arduino UNO:
+Arduino UNO is a low-cost, flexible, and easy-to-use programmable open-source microcontroller board that can be integrated into a variety of electronic projects. This board can be interfaced with other Arduino boards, Arduino shields, Raspberry Pi boards and can control relays, LEDs, servos, and motors as an output.
+
+Arduino UNO features AVR microcontroller Atmega328, 6 analogue input pins, and 14 digital I/O pins out of which 6 are used as PWM output.
+
+# Breadboard:
+The breadboard is the bread-and-butter of DIY electronics. Breadboards allow beginners to get acquainted with circuits without the need for soldering, and even seasoned tinkerers use breadboards as starting points for large-scale projects.
+
+# HC-SR04 ultrasonic sensor:
+The HC-SR04 Ultrasonic Distance Sensor is a sensor used for detecting the distance to an object using sonar. It's ideal for any robotics projects your have which require you to avoid objects, by detecting how close they are you can steer away from them.
+
+# Buzzer:
+A buzzer or beeper is an audio signaling device,[1] which may be mechanical, electromechanical, or piezoelectric (piezo for short). Typical uses of buzzers and beepers include alarm devices, timers, and confirmation of user input such as a mouse click or keystroke. 
+
+# DC betteries:
+DC stands for 'direct current' which means the current only flows in one direction. Batteries and electronic devices like TVs, computers and DVD players use DC electricity - once an AC current enters a device, it's converted to DC. A typical battery supplies around 1.5 volts of DC.
+
+
 
 # 4W's And 1H
 # Who
