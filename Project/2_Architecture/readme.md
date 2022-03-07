@@ -1,5 +1,6 @@
 # Architecture:
-![architecture](https://user-images.githubusercontent.com/99025340/155705558-c2b557bc-66ed-40f3-a8c5-3ab2db5646e6.jpg)
+![smart_blind_stick_o0BIYqO3jB](https://user-images.githubusercontent.com/99025340/157078836-bba18682-6dc1-437a-8fa2-ebea5bd1f85b.png)
+
 
 # Block Diagram:
 ![block blind](https://user-images.githubusercontent.com/99025340/155705861-6380669a-6d8d-4dd0-9a3e-b71a7b2f7124.JPG)
