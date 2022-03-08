@@ -8,3 +8,5 @@
 [![Unit Testing](https://github.com/Kharepooja1999/M2_EmbSys/actions/workflows/Unit.yml/badge.svg)](https://github.com/Kharepooja1999/M2_EmbSys/actions/workflows/Unit.yml)
 
 [![Cpp-Check](https://github.com/Kharepooja1999/M2_EmbSys/actions/workflows/Cpp.yml/badge.svg)](https://github.com/Kharepooja1999/M2_EmbSys/actions/workflows/Cpp.yml)
+
+[![Valgrind](https://github.com/Kharepooja1999/M2_EmbSys/actions/workflows/Val.yml/badge.svg)](https://github.com/Kharepooja1999/M2_EmbSys/actions/workflows/Val.yml)
