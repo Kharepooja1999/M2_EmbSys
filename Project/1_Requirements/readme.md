@@ -57,7 +57,7 @@ The HC-SR04 Ultrasonic Distance Sensor is a sensor used for detecting the distan
 # Buzzer:
 A buzzer or beeper is an audio signaling device,[1] which may be mechanical, electromechanical, or piezoelectric (piezo for short). Typical uses of buzzers and beepers include alarm devices, timers, and confirmation of user input such as a mouse click or keystroke. 
 
-# DC betteries:
+# DC batteries:
 DC stands for 'direct current' which means the current only flows in one direction. Batteries and electronic devices like TVs, computers and DVD players use DC electricity - once an AC current enters a device, it's converted to DC. A typical battery supplies around 1.5 volts of DC.
 
 
